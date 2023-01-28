@@ -6,7 +6,7 @@
     "mobileNo": 123213213,
     "onlineFee": 1500,
     "offlineFee": 2000,
-    "years": "9.0",
+    "years": "2014-12-11",
     "degree": [
       {
         "degreename": "MS"
@@ -24,7 +24,7 @@
     "mobileNo": 123123123,
     "onlineFee": 2000,
     "offlineFee": 2500,
-    "years": "13.1",
+    "years": "2021-5-11",
     "degree": [
       {
         "degreename": "MD"
@@ -36,544 +36,631 @@
     "id": 1
   },
   {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
     "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
+    "offlineFee": 2500,
+    "years": "2021-5-11",
     "degree": [
       {
         "degreename": "MD"
       },
       {
-        "degreename": "MBBS"
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "elon@gmail.com",
+    "fullName": "Elon Musk",
+    "password": "elon@1234",
+    "mobileNo": 123213213,
+    "onlineFee": 1500,
+    "offlineFee": 2000,
+    "years": "2014-12-11",
+    "degree": [
+      {
+        "degreename": "MS"
+      },
+      {
+        "degreename": "MD"
+      }
+    ],
+    "id": 0
+  },
+  {
+    "email": "Sachin@gmail",
+    "fullName": "Sachin Tendulkar",
+    "password": "sachin@1232",
+    "mobileNo": 123123123,
+    "onlineFee": 2000,
+    "offlineFee": 2500,
+    "years": "2021-5-11",
+    "degree": [
+      {
+        "degreename": "MD"
+      },
+      {
+        "degreename": "MS"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "email": "asdsa@asd.com",
+    "fullName": "sasd",
+    "password": "asdasd123@",
+    "mobileNo": 9999999999,
+    "onlineFee": 1231,
+    "offlineFee": 1231,
+    "years": "2008-12-28",
+    "degree": [
+      {
+        "degreename": "test"
       }
     ],
     "id": 2
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 3
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 4
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 5
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 6
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 7
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 8
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 9
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 10
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 11
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 12
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 13
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 14
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 15
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 16
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 17
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 18
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 19
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 20
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 21
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 22
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 23
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 24
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 25
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 26
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 27
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 28
-  },
-  {
-    "email": "Virat@gmail.com",
-    "fullName": "Virat Kohli",
-    "password": "virat1234@",
-    "mobileNo": 13123123,
-    "onlineFee": 2000,
-    "offlineFee": 2400,
-    "years": "3.0",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MBBS"
-      }
-    ],
-    "id": 29
-  },
-  {
-    "email": "elon@gmail.com",
-    "fullName": "Elon Musk",
-    "password": "elon@1234",
-    "mobileNo": 123213213,
-    "onlineFee": 1500,
-    "offlineFee": 2000,
-    "years": "9.0",
-    "degree": [
-      {
-        "degreename": "MS"
-      },
-      {
-        "degreename": "MD"
-      }
-    ],
-    "id": 30
-  },
-  {
-    "email": "Sachin@gmail",
-    "fullName": "Sachin Tendulkar",
-    "password": "sachin@1232",
-    "mobileNo": 123123123,
-    "onlineFee": 2000,
-    "offlineFee": 2500,
-    "years": "13.1",
-    "degree": [
-      {
-        "degreename": "MD"
-      },
-      {
-        "degreename": "MS"
-      }
-    ],
-    "id": 31
   }
 ]
 }
